@@ -1,7 +1,7 @@
 const imageContainer = document.getElementById("image-container");
 const loader = document.getElementById("loader");
 
-const apiKey = "d4CnJqNpq4sVKzysderC8O8KDCabyOy7K7aNYj8yh9Q";
+const apiKey = "api-key";
 
 let photosArray = [];
 
